@@ -1,0 +1,11 @@
+Variables: son valores que pueden cambiar.
+
+Strings:son cadenas de texto, que van dentro de comillas simples y dobles.
+
+Funciones (argumentos, return):una función es un fragmento de código que puede ser invocado para que realice tareas o devolver un resultado, además la función se 
+puede llamar tantas veces sea necesario, esto evita tener que repetir código, el argumento es una variable que se escribe dentro
+del parentesis que al momento de llamar le ponemos el valor deseado, la función puede tener varios argumentos y se separan con comparaciones
+y el return devuelve el resultado de la función.
+Declaraciones if:son condicionales que hacen comparaciones.
+Valores booleanos (true, false):tiene el comportamiento de una pregunta que solo admite dos posibles respuestas,
+ true o false, estos valores son importantes para las expresiones condicionales.
