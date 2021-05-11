@@ -1,0 +1,12 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo
+ estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu
+  comprensión.
+
+for: es un ciclo que nos ayuda a a minimizar lineas de código, tiene un inicio, una condición y un incremento o decremento 
+dependiendo de lo que se necesite.
+
+&& es un valor lógico que se puede usar en los if, compara condiciones y en este si el valor de alguno es falso devolvera falso, 
+para que sea verdadero, estrictamente todas las condiciones deben de ser verdaderas.
+
+|| es un valor lógico que compara condiciones y con una que se cumpla devuelve verdadero.
+ ! operador lógico de negación, invierte el resultado de una condición.
