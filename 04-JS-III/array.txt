@@ -1,0 +1,4 @@
+Arrays
+los arrays son contenedores que almacenan, números, strings, funciones, otros arrays, pueden guardar 
+cualquier tipo de datos, que posteriormente se pueden recuperar, para hacer con esos datos o dato lo 
+que necesites, tambien puedes borrar algún dato o cambiar alguno en una posición definida.
